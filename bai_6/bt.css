@@ -1,0 +1,47 @@
+div {
+    border-style: groove;
+    border-width: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+a {
+    text-indent: 20px;
+    text-decoration: none;
+
+}
+
+#back_top {
+    border-style: solid;
+    border-width: 1px;
+    width: 50px;
+    height: 50px;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+    z-index: 3000;
+    text-decoration: none;
+    text-align: center;
+    background-color: #00ffe1;
+    color: #08ff00;
+}
+
+#C1, #C2, #C3, #C4, #C5 {
+    height: auto;
+}
+
+#mucluc {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-image: url("https://bitly.com.vn/qg5fas");
+    background-size: 100% 100%;
+}
+
+.mucluc {
+    background-color: aqua;
+}
