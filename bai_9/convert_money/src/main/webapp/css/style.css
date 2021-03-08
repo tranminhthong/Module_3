@@ -1,0 +1,10 @@
+#submit {
+    margin-top: 10px;
+}
+
+div {
+    width: 325px;
+    height: auto;
+    border: 10px groove #b8b8b8;
+    padding: 10px;
+}
